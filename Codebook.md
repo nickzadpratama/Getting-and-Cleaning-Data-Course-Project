@@ -43,7 +43,3 @@ The run_analysis.R script performs the data preparation and then followed by the
 7.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 * FinalData is created by sumarizing TidyData taking the means of each variable for each activity and each subject, after groupped by subject and activity.
 * Export FinalData into FinalTinyData.txt file.
-      
-        
-
-
